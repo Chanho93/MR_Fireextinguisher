@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: MainTitleUI
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 743c077be4a65f341b8275d85ce6cc9d, type: 2}
+  mSprites:
+  - name: backButton
+    x: 3971
+    y: 3050
+    width: 123
+    height: 24
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bg
+    x: 0
+    y: 2662
+    width: 2048
+    height: 1434
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: br_Q
+    x: 1731
+    y: 2518
+    width: 144
+    height: 143
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Panel Background
+    x: 2049
+    y: 3072
+    width: 1024
+    height: 1024
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PanelBackground
+    x: 2049
+    y: 2047
+    width: 1024
+    height: 1024
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: SmartPhone_BT
+    x: 0
+    y: 2417
+    width: 405
+    height: 244
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Solve_BT
+    x: 406
+    y: 2417
+    width: 405
+    height: 244
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: SOSTitle
+    x: 3074
+    y: 1779
+    width: 914
+    height: 271
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 20
+    paddingRight: 42
+    paddingTop: 50
+    paddingBottom: 42
+  - name: title_hd
+    x: 1218
+    y: 2531
+    width: 512
+    height: 130
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: VR_BT
+    x: 812
+    y: 2417
+    width: 405
+    height: 244
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Window Background
+    x: 3074
+    y: 3075
+    width: 956
+    height: 1021
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 2
+    paddingBottom: 1
+  - name: WindowBackground
+    x: 3074
+    y: 2051
+    width: 896
+    height: 1023
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

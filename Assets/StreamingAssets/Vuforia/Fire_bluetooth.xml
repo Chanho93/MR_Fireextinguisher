@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="IMG_4505" size="10.000000 13.333333"/>
+        <ImageTarget name="jebal.Top" size="9.000000 9.037736"/>
+        <ImageTarget name="jebal.Back" size="9.000000 9.037736"/>
+        <ImageTarget name="jebal.Right" size="9.000000 9.037736"/>
+        <ImageTarget name="jebal.Bottom" size="9.000000 9.037736"/>
+        <ImageTarget name="jebal.Front" size="9.000000 9.037657"/>
+        <ImageTarget name="jebal.Left" size="9.000000 9.037736"/>
+        <MultiTarget name="jebal">
+            <Part name="jebal.Left" translation="-4.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="jebal.Right" translation="4.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="jebal.Front" translation="0 0 4.5" rotation="AD: 1 0 0 0"/>
+            <Part name="jebal.Back" translation="0 0 -4.5" rotation="AD: 0 1 0 180"/>
+            <Part name="jebal.Top" translation="0 4.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="jebal.Bottom" translation="0 -4.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

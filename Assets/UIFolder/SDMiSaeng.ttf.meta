@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d2684975919f11d4eb1e636ddc258364
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sandoll MiSaeng
+  fontNames:
+  - Sandoll MiSaeng
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a9e4bca1f44d463409b3f2d7ee9661c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
