@@ -39,6 +39,6 @@
 
 ![image](https://user-images.githubusercontent.com/48191157/71572917-ad07ad80-2b24-11ea-9323-17ee4c737fbd.png)
 
-10. 불이 꺼짐
+10. 불꺼짐
 
 ![image](https://user-images.githubusercontent.com/48191157/71572940-ca3c7c00-2b24-11ea-9caf-389eaf32d639.png)
